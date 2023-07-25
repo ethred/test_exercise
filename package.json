@@ -1,0 +1,15 @@
+{
+  "name": "test_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
